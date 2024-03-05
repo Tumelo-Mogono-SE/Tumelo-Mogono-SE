@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer Student
 --------------------------
 
+![](https://pbs.twimg.com/profile_banners/881657759753699329/1709645063/1080x360)
 
 I am a software developer student currently enrolled in a bootcamp by Codespace. I am an ambivert and enjoy learning new skills and love technology. I have an inspiration to work as a Front-end Developer. I am a former competitive Fifa player and Food Technology graduate.
 
