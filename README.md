@@ -5,10 +5,10 @@
 I am a software developer student from Rustenburg, currently enrolled in a bootcamp by Codespace. I am an ambivert and enjoy learning new skills and love technology. I have an inspiration to work as a Front-end Developer.I am a former competitive Fifa player and Food Technology graduate.
 
 - Skills:
-    * REACT
-    * JS
-    * HTML
+    * HTML 
     * CSS
+    * JavaScript
+    * Git & Github
 
 
 
