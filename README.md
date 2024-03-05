@@ -7,7 +7,7 @@ Software Developer Student
 I am a software developer student currently enrolled in a bootcamp by Codespace. I am an ambivert and enjoy learning new skills and love technology. I have an inspiration to work as a Front-end Developer. I am a former competitive Fifa player and Food Technology graduate.
 
 * 🌍  I'm based in Rustenburg, North West, South Africa
-* 🖥️  See my portfolio at [MyPortfolio](http://app.netlify.com/sites/my-portfolio-tumelo-mogono/overview)
+* 🖥️  See my portfolio at [MyPortfolio](http:my-portfolio-tumelo-mogono.netlify.app/)
 * ✉️  You can contact me at [tumelomogono@gmail.com](mailto:tumelomogono@gmail.com)
 * 🧠  I'm learning Advanced JavaScript and React.js
 * 🤝  I'm open to collaborating on Javascript web apps
